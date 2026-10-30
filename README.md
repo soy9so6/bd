@@ -1,4 +1,4 @@
-# NoSQL in Practice — Task Tracker
+# Task Tracker
 
 ## 1. Цель проекта
 
